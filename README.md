@@ -1,2 +1,2 @@
-# Date Counter - React App
-## Basic level Challenge - React JS Course 
+# Date Counter App
+### React JS Course - Basic level Challenge
